@@ -38,10 +38,6 @@
 <a href="https://github.com/dudugudu">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dudugudu&theme=onedark&show_icons=true" />
 </a>
-<a href="https://github.com/dudugudu">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dudugudu&hide=html&layout=compact=true&theme=onedark" />
-</a>
-<br/>
 
 <h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
 
