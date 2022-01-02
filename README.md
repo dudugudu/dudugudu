@@ -4,18 +4,18 @@
 
 
 
-<h3> :man: &nbsp;Sobre mim </h3>
+<h3> :man: &nbsp;About me</h3>
 
->- Formação:
-  >- Técnico em eletrotécnica ⚡
+>- Formation:
+  >- Electrotechnician ⚡
 
-<h3> :rocket: &nbsp;Minhas Skills </h3>
+<h3> :rocket: &nbsp;My Skills </h3>
 
-**Projetos**
+**Projects**
 
-  - 👯 I’m looking to collaborate on [uRP](https://github.com/Underground-Roleplay/framework)
+  - 👯 I’m looking to collaborate on [uRP](https://github.com/Underground-Roleplay/framework) 
   
-**Aprendendo na Pratica**
+**Learning by Practice**
 
   ![React Router](https://img.shields.io/badge/-React%20Router-222222?style=flat&logo=ReactRouter)
   ![React](https://img.shields.io/badge/-React-222222?style=flat&logo=react)
@@ -31,7 +31,7 @@
 
   ![GitHub](https://img.shields.io/badge/-GitHub-222222?style=flat&logo=github)
  
-**Ferramentas de Desenvolvimento**
+**Development Tools**
 
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-222222?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![Trello](https://img.shields.io/badge/-Trello-222222?style=flat&logo=trello&logoColor=007ACC)
@@ -49,7 +49,7 @@
 </a>
 
 
-<h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
+<h3> :earth_americas: &nbsp;Where to find me?: </h3> 
 
   
   
