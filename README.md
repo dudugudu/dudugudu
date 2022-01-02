@@ -3,6 +3,7 @@
 
 
 
+
 <h3> :man: &nbsp;Sobre mim </h3>
 
 >- Formação:
@@ -10,6 +11,10 @@
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
 
+**Projetos**
+
+  - 👯 I’m looking to collaborate on [uRP](https://github.com/Underground-Roleplay/framework)
+  
 **Aprendendo na Pratica**
 
   ![React Router](https://img.shields.io/badge/-React%20Router-222222?style=flat&logo=ReactRouter)
@@ -39,6 +44,10 @@
 <a href="https://github.com/dudugudu">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dudugudu&theme=onedark&show_icons=true" />
 </a>
+<a href="https://github.com/dudugudu">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dudugudu&theme=onedark&show_icons=true" />
+</a>
+
 
 <h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
 
