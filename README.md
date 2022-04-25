@@ -19,7 +19,7 @@
 
   ![React Router](https://img.shields.io/badge/-React%20Router-222222?style=flat&logo=ReactRouter)
   ![React](https://img.shields.io/badge/-React-222222?style=flat&logo=react)
-  ![Redux](https://img.shields.io/badge/-React-222222?style=flat&logo=Redux)
+  ![Redux](https://img.shields.io/badge/-Redux-222222?style=flat&logo=Redux)
   ![NodeJs](https://img.shields.io/badge/-NodeJs-222222?style=flat&logo=Node.js)
   ![Ts svript](https://img.shields.io/badge/-TypeScript-222222?style=flat&logo=ts-node)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-222222?style=flat&logo=javascript)
@@ -33,8 +33,8 @@
   ![GitHub](https://img.shields.io/badge/-GitHub-222222?style=flat&logo=github)
  
 **Development Tools**
- ![Prettier](https://img.shields.io/badge/-React-222222?style=flat&logo=Prettier)
-  ![jsDelivr](https://img.shields.io/badge/-React-222222?style=flat&logo=jsDelivr)
+ ![Prettier](https://img.shields.io/badge/-Prettier-222222?style=flat&logo=Prettier)
+  ![jsDelivr](https://img.shields.io/badge/-jsDelivr-222222?style=flat&logo=jsDelivr)
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-222222?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![Trello](https://img.shields.io/badge/-Trello-222222?style=flat&logo=trello&logoColor=007ACC)
   ![Figma](https://img.shields.io/badge/-Figma-222222?style=flat&logo=figma&logoColor=007ACC)
