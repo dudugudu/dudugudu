@@ -26,16 +26,20 @@
   ![HTML5](https://img.shields.io/badge/-HTML5-222222?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-222222?style=flat&logo=CSS3&logoColor=1572B6)
   ![MySQL](https://img.shields.io/badge/-MySQL-222222?style=flat&logo=mysql)
-  ![Lua](https://img.shields.io/badge/-.Lua-222222?style=flat&logo=lua)
+  ![Lua](https://img.shields.io/badge/-.Lua-222222?style=flat&logo=lua) 
+  ![Nodemon](https://img.shields.io/badge/-.Nodemon-222222?style=flat&logo=Nodemon) 
+  ![jQuery](https://img.shields.io/badge/-.jQuery-222222?style=flat&logo=jQuery)
 
 **DevOps**
 
-  ![GitHub](https://img.shields.io/badge/-GitHub-222222?style=flat&logo=github)
+  ![GitHub](https://img.shields.io/badge/-GitHub-222222?style=flat&logo=github) 
+  ![Yarn](https://img.shields.io/badge/-Yarn-222222?style=flat&logo=Yarn)
  
 **Development Tools**
- ![Prettier](https://img.shields.io/badge/-Prettier-222222?style=flat&logo=Prettier)
-  ![jsDelivr](https://img.shields.io/badge/-jsDelivr-222222?style=flat&logo=jsDelivr)
+  
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-222222?style=flat&logo=visual-studio-code&logoColor=007ACC)
+  ![Prettier](https://img.shields.io/badge/-Prettier-222222?style=flat&logo=Prettier)
+  ![jsDelivr](https://img.shields.io/badge/-jsDelivr-222222?style=flat&logo=jsDelivr)
   ![Trello](https://img.shields.io/badge/-Trello-222222?style=flat&logo=trello&logoColor=007ACC)
   ![Figma](https://img.shields.io/badge/-Figma-222222?style=flat&logo=figma&logoColor=007ACC)
   ![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-222222?style=flat&logo=adobe-xd&logoColor=007ACC)
