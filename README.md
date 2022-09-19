@@ -48,12 +48,11 @@
 <br/>
 
 <a href="https://github.com/dudugudu">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dudugudu&theme=onedark&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dudugudu&count_private=true&show_icons=true&theme=onedark" />
 </a>
 <a href="https://github.com/dudugudu">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dudugudu&theme=onedark&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dudugudu&count_private=true&show_icons=true&theme=onedark" />
 </a>
-
 
 <h3> :earth_americas: &nbsp;Where to find me?: </h3> 
 
