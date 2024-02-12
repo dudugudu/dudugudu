@@ -13,7 +13,7 @@
 
 **Projects**
 
-  - 👯 I’m looking to collaborate on [uRP](https://github.com/Underground-Roleplay/framework) 
+  
   
 **Learning by Practice**
 
